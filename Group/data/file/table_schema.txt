@@ -1,0 +1,6 @@
+paper:(\t分隔)(list中以,分割)
+id	title	conference_id	conference_name	conference_label	year	author_name_list	author_id_list
+author:(\t分隔)(list中以,分割)
+id	name	paper_id_list	title_list	orderInPaper_list	conference_name_list	conference_id_list	conference_label_list
+conference:(\t分隔)(list中以,分割)
+id	name	label	paper_id_list	author_id_list

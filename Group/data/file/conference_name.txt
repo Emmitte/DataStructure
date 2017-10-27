@@ -1,0 +1,14 @@
+vldb
+www
+icde
+dasfaa
+pkdd
+icdm
+aaai
+nips
+sdm
+icml
+pakdd
+cvpr
+ecir
+ijcai

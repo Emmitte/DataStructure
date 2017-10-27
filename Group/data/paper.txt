@@ -1,0 +1,2 @@
+0	aabbaa	AI	0	2013	aa cc,bb cc	0,1
+1	bbaabb	AI	0	2016	bb cc,cc aa	1,2
